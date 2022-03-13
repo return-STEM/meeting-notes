@@ -1,0 +1,15 @@
+{
+  "port": "2980",
+  "autoReload": true,
+  "exportDirectory": "/docs",
+  "enableChalkboard": true,
+  "enableOverview": true,
+  "enableMenu": true,
+  "theme": "white",
+  "highlightTheme": "monokai",
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "controls": true,
+  "progress": true,
+  "slideNumber": true
+}
