@@ -4,7 +4,7 @@
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
-  "working_directory": "C:\\Users\\samli\\Documents\\Return STEM\\Guides",
+  "working_directory": "C:\\Users\\samli\\Documents\\Return STEM\\Return STEM; Meeting Notes",
   "default_shells": {
     "win32": "pwsh.exe"
   },
@@ -18,7 +18,7 @@
         "default": "git add -A && git commit -m \"{{date:LLL}}\" && git push"
       },
       "shells": {},
-      "alias": "",
+      "alias": "git ",
       "confirm_execution": false,
       "ignore_error_codes": [],
       "output_channels": {
