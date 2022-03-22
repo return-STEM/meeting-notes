@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "79939219710a7d1c",
+        "id": "69dae1a9ec3e3a91",
         "type": "split",
         "children": [
           {
@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session-cpp-3-14-2022.md",
+                "file": "session-cpp-3-21-2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12072cc1241724d5",
+            "id": "8310121551f43b80",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "session-cpp-3-14-2022.md",
+                "file": "session-cpp-3-21-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,16 +94,25 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "66091bf739a6238e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 213,
-    "collapsed": true
+    "width": 213
   },
   "active": "74454b7b7d531284",
   "lastOpenFiles": [
+    "session-cpp-3-21-2022.md",
     "session-cpp-3-14-2022.md",
     "mentor-3-13-2022.md",
     "Pasted image 20220313113015.png",
@@ -112,7 +121,6 @@
     "applipy/review.md",
     "intropy/consoleio.md",
     "intropy/lists.md",
-    "intropy/conditionals.md",
-    "condition.md"
+    "intropy/conditionals.md"
   ]
 }
