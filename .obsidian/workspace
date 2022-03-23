@@ -4,31 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69dae1a9ec3e3a91",
-        "type": "split",
-        "children": [
-          {
-            "id": "74454b7b7d531284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session-cpp-3-21-2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8310121551f43b80",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "35dc4031ad791b71",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "session-cpp-3-21-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +90,10 @@
     "direction": "horizontal",
     "width": 213
   },
-  "active": "74454b7b7d531284",
+  "active": "35dc4031ad791b71",
   "lastOpenFiles": [
+    "Untitled.md",
+    "session-py-3-23-2022.md",
     "session-cpp-3-21-2022.md",
     "session-cpp-3-14-2022.md",
     "mentor-3-13-2022.md",
@@ -119,8 +101,6 @@
     "intropy/functions.md",
     "intropy/functions/functions-8-recursion.png",
     "applipy/review.md",
-    "intropy/consoleio.md",
-    "intropy/lists.md",
-    "intropy/conditionals.md"
+    "intropy/consoleio.md"
   ]
 }
